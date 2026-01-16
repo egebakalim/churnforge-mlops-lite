@@ -1,3 +1,5 @@
+Churnforge MLOps Lite
+
 End-to-end churn prediction mini-system with:
 
 Great Expectations (data validation gate)
