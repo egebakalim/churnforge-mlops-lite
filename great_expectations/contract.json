@@ -1,0 +1,11 @@
+{
+  "target_column": "Churn",
+  "min_columns": 5,
+  "allowed_target_values": [
+    0,
+    1
+  ],
+  "required_columns": [
+    "Churn"
+  ]
+}

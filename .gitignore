@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+mlflow.db
+
+# Data (raw)
+data/*.csv
+
+# ML artifacts
+artifacts/
+mlruns/
+
+# Great Expectations outputs
+great_expectations/validation_result.json
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
