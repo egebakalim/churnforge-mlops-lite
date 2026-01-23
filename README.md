@@ -1,4 +1,4 @@
-Churnforge MLOps Lite
+## Churnforge MLOps Lite
 
 End-to-end churn prediction mini-system with:
 
@@ -78,7 +78,6 @@ make coverage
 Project structure
 
 ```
-text
 churnforge-mlops-lite/
 src/
 data.py
