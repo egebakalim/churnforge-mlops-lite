@@ -12,8 +12,7 @@ pytest (data + features + API tests)
 
 Setup
 
-```
-bash
+```bash
 make install
 ```
 
@@ -31,16 +30,14 @@ or 1 / 0
 
 Initialize + validate data suite
 
-```
-bash
+```bash
 make ge_init
 make ge_validate
 ```
 
 Train + track experiments
 
-```
-bash
+```bash
 make train
 mlflow ui
 ```
@@ -50,8 +47,7 @@ http://localhost:5000
 
 Serve the model
 
-```
-bash
+```bash
 make serve
 ```
 
@@ -74,8 +70,7 @@ json
 
 Run tests
 
-```
-bash
+```bash
 make test
 make coverage
 ```
